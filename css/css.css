@@ -1,0 +1,13 @@
+.mohsen{
+    height: 50px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.body{
+    width: 100%;
+}
+
+.border-rad-maker{
+    border-radius: 15px;
+}
